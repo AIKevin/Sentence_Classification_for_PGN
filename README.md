@@ -24,5 +24,6 @@ Here is the format of the sentences to be classified and filtered for the creati
 ![Screenshot](Format_Sentences_for_Dataset_Creation.PNG)
 One column for the sentences to filter.
 
+My dataset is in French, but you can use an English dataset.
 
 The project is in a Google Colab Notebook, the Python 3 version is coming soon!
