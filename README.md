@@ -10,6 +10,7 @@ You will need two datasets to achieve this task:
 
 -One annotated dataset of about 500 sentences to learn how to classify your sentences
 -One dataset of raw texts to classify and filter to create a smaller and filtered datasets, without unimportant sentences
+
 *The datasets must be in the xlsx format*
 
 Here is the format of the input file for the sentence selection:
